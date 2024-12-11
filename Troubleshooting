@@ -1,0 +1,27 @@
+If ALT + F11 (from the first set of instructions) doesn’t work to open the VBA editor in Excel, here are a few alternatives:
+
+1.) Use the Developer Tab:
+
+    If you have the Developer tab enabled in Excel, you can access the VBA editor from there.
+
+    Go to Developer > Visual Basic. 
+
+If you don't see the Developer tab, follow these steps to enable it:
+
+    Go to File > Options.
+    In the Excel Options dialog, select Customize Ribbon.
+    Check the Developer box in the right column and click OK.
+
+Once the Developer tab is enabled, click Visual Basic on the Developer toolbar to open the VBA editor.
+
+
+
+2.) Use the Ribbon (If Developer Tab is Disabled):
+
+    You can also press ALT + F8 to open the Macro dialog, which lets you create a new macro. From there, you can select Edit to open the VBA editor.
+    Once in the VBA editor, you can insert a new module by going to Insert > Module.
+
+
+3.) Check Keyboard Shortcuts Settings:
+
+Sometimes, keyboard shortcuts are disabled or reassigned, especially in virtualized environments or on custom keyboards. If you’re using a different keyboard or have software that might remap keys, you may need to check those settings.
