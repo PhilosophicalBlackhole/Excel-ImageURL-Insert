@@ -1,0 +1,13 @@
+Customize the Code FOR SPECIFIC USE CASES:
+
+Modify the urlRange to match the range containing your image URLs (e.g., "A2:A10"). 
+
+To Run the Macro:
+
+Press ALT + F8 to open the “Macro” dialog box, select InsertImagesFromURLs, and click Run.
+
+
+Note: 
+The code inserts the image into the cell to the RIGHT of each URL.
+This code works if you are online and Excel has access to the internet to fetch images from URLs. 
+Ensure that the URLs in the range point directly to image files (e.g., .jpg, .png).
