@@ -1,0 +1,13 @@
+In Excel, there isn't a built-in function to automatically insert images from a URL, but you can use a VBA (Visual Basic for Applications) macro to automate this. Here’s how to do it:
+
+Open the VBA Editor:
+
+Press ALT + F11 to open the VBA editor in Excel.
+
+Insert a New Module:
+
+In the VBA editor, click on Insert > Module to open a new code module.
+
+Add the VBA Code:
+
+Copy and paste the following VBA code into the module. This macro will go through each cell in the specified range, check for an image URL, and then insert the image into the next column
